@@ -1,0 +1,47 @@
+           body {
+            background-color: black;
+            color: white;
+            font-family: 'Hepta Slab', serif;
+            font-weight: 500;
+            padding-top: 48px;
+            user-select: none;}
+          sel {user-select: all;}
+          #frame  {
+            width: 336px;
+            margin: 0px auto;
+            border-radius:5px;}
+          #social {
+            margin-left: -24px;
+            height: auto;}
+         .icon {
+            float: left;
+            margin: 24px;
+            margin-top: 0px;
+            width: 24px;
+            height: 24px;
+            filter: grayscale(1) brightness(1.2);
+            color: white;
+            text-decoration: none;
+            transition: transform 0.2s;}
+          .icon:hover{
+            transform: scale(2);
+            filter: none;}
+          a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.2s;}
+          a:hover, a:active, .icon:hover, green, sel:hover {
+            color: #99ff33;
+            text-decoration: none;}
+          b {
+            font-size: 16pt;
+            font-weight: 700;}
+          .text {
+              width: 700px;
+              font-size: 9pt;
+              margin: 0px auto;}
+          #footer {
+            font-size: 6pt;
+            color: #222222;
+            padding-top: 50px;
+          }
