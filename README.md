@@ -5,8 +5,8 @@ sumi - super minimalist personal website / digital business card
     local decryption avoids sensitive information in sourcecode
     redirect to or promt decrypted information (mailcrypt & datacrypt)
     
-- fully customizable social media icons, fonts, colors and animations
-    byo svg vector icons
+- fully customizable social media svg icons, fonts, colors and animations
+
     
 
 
