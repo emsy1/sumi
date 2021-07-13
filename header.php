@@ -6,7 +6,7 @@
   \/____/\/_/\/_/\/_/\/___/  `/___/  \
                                 /\___/
                                 \/__/
-(c) 2021 emsy.xyz
+(c) 2021 emsy.xyz - SuMi - https://github.com/emsy1/sumi
 hepta slab by mike lagattuta - https://github.com/mjlagattuta/Hepta-Slab
 mailto link decryption by juergen kummer - https://jumk.de/nospam
 ///-->
