@@ -22,7 +22,7 @@
             filter: grayscale(1) brightness(1.2);
             color: white;
             text-decoration: none;
-            transition: transform 0.2s;}
+            transition: transform 0.2s, filter 0.2s;}
           .icon:hover{
             transform: scale(2);
             filter: none;}
