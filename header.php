@@ -17,3 +17,4 @@ mailto link decryption by juergen kummer - https://jumk.de/nospam
 <link rel="stylesheet" type="text/css" href="../style.css"/>
 <script src="../datacrypt.js"></script>
 <script src="../mailcrypt.js"></script>
+<script src="../jswarn.js"></script>
