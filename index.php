@@ -3,6 +3,7 @@
 <title>your name here</title>
     </head>
     <body>
+<div id="jswarn">this page depends on javascript to encrypt sensitive information. please disable your scriptblocker/adblocker. thank you :)</div>
     <div id="frame">
         <b><a href="javascript:linkTo_UnCryptMailto('your crypt-mail here');" title="&#x1F512; send email">your name here</a></b><br>
         <br><br><br>
